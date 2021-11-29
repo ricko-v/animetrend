@@ -66,14 +66,14 @@
                         </div>
                         <div v-for='h in results.data' class='mb-3'>
                             <div class='text-white d-flex border border-bottom-0 border-secondary rounded-top'>
-                                <div class='d-flex align-items-center border border-end border-secondary px-3'>
+                                <div class='d-flex justify-content-center col-1 align-items-center border border-end border-secondary px-3'>
                                     <h4>{{ h.rankChar.length <= 1 ? "0" + h.rankChar : h.rankChar }}</h4>
                                 </div>
-                                <div class='d-flex align-items-center border border-secondary'>
-                                    <img :src='h.thumbChar' class='thumb-char'>
+                                <div class='d-flex col-3 align-items-center border border-secondary'>
+                                    <img :src='h.thumbChar' class='img-fluid'>
                                 </div>
-                                <div class='w-full'>
-                                    <div class='h-setengah px-3 border-bottom border-secondary d-flex align-items-center'>
+                                <div class='col-8'>
+                                    <div class='h-setengah px-3 py-3 border-bottom border-secondary d-flex align-items-center'>
                                         <b>{{ h.namaChar }}</b>
                                     </div>
                                     <div class='h-setengah px-3 border-top border-secondary py-3 d-flex align-items-center'>
