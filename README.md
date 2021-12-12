@@ -2,17 +2,17 @@
 Live Demo: <a href='https://animetrend.surge.sh' target='blank'>here</a>
 
 ## API Documentation
-Base url: <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/'>coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/</a>
+Base url: <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/' target='blank'>coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/</a>
 
 
 | Endpoint | Description |
 | -------  | ----------- |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/topanime'>topanime</a> | Get top anime |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/malerank'>malerank</a> | Get top male anime character |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/femalerank'>femalerank</a> | Get top female anime character |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/coupleship'>coupleship</a> | Get top couple anime character |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/opsongs'>opsongs</a> | Get top opening anime music |
-| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/edsongs'>edsongs</a> | Get top ending anime music |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/topanime' target='blank'>topanime</a> | Get top anime |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/malerank' target='blank'>malerank</a> | Get top male anime character |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/femalerank' target='blank'>femalerank</a> | Get top female anime character |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/coupleship' target='blank'>coupleship</a> | Get top couple anime character |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/opsongs' target='blank'>opsongs</a> | Get top opening anime music |
+| <a href='https://coba-nuxt-ssr-ricko-v.vercel.app/api/anitrendz/edsongs' target='blank'>edsongs</a> | Get top ending anime music |
 
 ## Build Setup
 
